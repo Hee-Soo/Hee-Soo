@@ -48,8 +48,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hee-Soo&show_icons=true&theme=gotham)
 
-<img scr="http://mazassumnida.wtf/api/v1/generate_badge?boj={Hee-Soo}">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Hee-soo}&layout=compact">
+
 
 
 
