@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
+	
 
+	
+  </div>
 
 ###Available Skills
 ####Languages
@@ -46,4 +50,9 @@ Here are some ideas to get you started:
 
 <img scr="http://mazassumnida.wtf/api/v1/generate_badge?boj={Hee-Soo}">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Hee-soo}&layout=compact">
+
+
+
+
+
 
