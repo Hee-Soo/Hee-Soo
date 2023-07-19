@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 
 
-//css3
-<img src=""
+
 
 //Oracle
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
